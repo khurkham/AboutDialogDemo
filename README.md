@@ -134,7 +134,7 @@ public class AboutDialogFragment extends DialogFragment implements View.OnClickL
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         Button btnOK;
         View view = inflater.inflate(R.layout.activity_about, container, false);
-        getDialog().setTitle("Font Tai For Oppo");
+        getDialog().setTitle("About Me");
         btnOK = (Button)view.findViewById(R.id.btnOk);
         btnOK.setOnClickListener(this);
         return view;

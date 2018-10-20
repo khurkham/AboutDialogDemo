@@ -180,4 +180,9 @@ public class AboutDialogFragment extends DialogFragment implements View.OnClickL
        implementation 'com.android.support:design:28.0.0-alpha1'
        implementation 'com.nineoldandroids:library:2.4.0'
     implementation 'com.github.sd6352051.niftydialogeffects:niftydialogeffects:1.0.0@aar'
+    
+    
+    လဵပ်ႈႁဵၼ်းလႆႈတီႈ
+    
+    https://android-arsenal.com/details/1/6109
 
